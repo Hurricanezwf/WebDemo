@@ -1,0 +1,7 @@
+robotframework
+robotframework-databaselibrary
+requests
+robotframework-requests
+robotframework-selenium2library
+robotframework-selenium2screenshots
+

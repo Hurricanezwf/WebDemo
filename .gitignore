@@ -11,3 +11,7 @@ log.html
 report.html
 output.xml
 *.log
+bin/
+lib/
+pip-selfcheck.json
+pyvenv.cfg
